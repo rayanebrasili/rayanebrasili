@@ -14,14 +14,3 @@
  
 </div>
 
-<h1>Atividade</h1>
-<!-- visitors count  -->
-
-<p align="center" >   
-  <img src="https://profile-counter.glitch.me/rayanebrasili/count.svg" />  
-</p>
-
-<!-- github workflow  -->
-
- ![github contribution grid snake animation](https://raw.githubusercontent.com/rayanebrasili/rayanebrasili/output/github-contribution-grid-snake.svg)
-
