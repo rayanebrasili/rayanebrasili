@@ -11,7 +11,11 @@
   <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ray-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ray-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ray-amazonwebservices" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+    </div>
+  
+    <div>
+      <div style="display: inline_block"><br>
+  <img align="center" alt="Ray-amazonwebservices" height="30" width="40 src="https://raw.githubusercontent/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Ray-Java" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Ray-csharp" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/csharp/csharp-plain.svg>
   <img align="center" alt="Ray-docker" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/docker/docker-plain.svg>
