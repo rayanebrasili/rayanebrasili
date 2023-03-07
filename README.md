@@ -1,7 +1,7 @@
 ## Olá, eu sou a Rayane Brasili!
 <div align="center">
   <a href="https://github.com/rayanebrasili">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rayanebrasili&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=rayanebrasili&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
   <div style="display: inline_block"><br>
@@ -11,7 +11,7 @@
   <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Ray-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg">
   <img align="center" alt="Ray-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Ray-Ruby" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
+  <img align="center" alt="Ray-amazonwebservices" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Ray-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Ray-csharp" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg>
     
