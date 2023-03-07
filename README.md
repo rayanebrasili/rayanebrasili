@@ -1,7 +1,7 @@
 ## Olá, eu sou a Rayane Brasili!
 <div align="center">
   <a href="https://github.com/rayanebrasili">
-  <img height="180em" src="https://github-readme-stats.vercel.app/apiusername=rayanebrasili&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readmestats.vercel.app/apiusername=rayanebrasili&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
 </div>
   
