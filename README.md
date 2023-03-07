@@ -5,7 +5,7 @@
 
 </div>
   <div style="display: inline_block"><br>
-  <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Ray-HTML" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/csharp/csharp-plain.svg)">
   <img align="center" alt="Ray-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Ray-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ray-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -13,7 +13,6 @@
   <img align="center" alt="Ray-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Ray-amazonwebservices" height="30" width="40 src="https://raw.githubusercontent/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
   <img align="center" alt="Ray-Java" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Ray-csharp" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/csharp/csharp-plain.svg>
   <img align="center" alt="Ray-docker" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/docker/docker-plain.svg>
   <img align="center" alt="Ray-grafana" height="30" width="40" src="https://raw.githubusercontent/devicons/devicon/master/icons/grafana/grafana-original.svg>
   <img align="center" alt="Ray-docker" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg>
