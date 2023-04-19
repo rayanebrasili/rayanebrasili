@@ -1,7 +1,7 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rayane Brasili</h1>
 
-- 🔥 Cloud Analyst & ruby on rails developer
+- ☁️ Cloud Analyst & 💎 ruby on rails developer
 
 - 💬 Ask me about **Cloud, AWS, DevOps, IT infrastructure**
 
