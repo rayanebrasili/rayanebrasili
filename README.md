@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Cloud, AWS, DevOps, IT infrastructure**
 
-<!--
+
 
 <br><br>
 
@@ -30,7 +30,7 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rayanebrasili&show_icons=true&theme=vision-friendly-dark" alt="rayanebrasili's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanebrasili&layout=compact&theme=vision-friendly-dark" alt="rayanebrasili's most languages"/>
 </p>
--->
+
 
 <br><br>
 
@@ -44,4 +44,4 @@
 </a>
 </p>
 
-<!--
+
