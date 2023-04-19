@@ -1,4 +1,4 @@
-<img align="right" height="500em" src="https://raw.githubusercontent.com/gist/rayanebrasili/9e99c75270c8fa41ba34b1224b7e170b/raw/6b5678ad7c4b358836f196c31d3f8cbcee9ffff5/githubcard.svg"/>
+
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rayane Brasili</h1>
 
 - 🔥 Cloud Analyst & ruby on rails developer
