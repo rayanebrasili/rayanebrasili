@@ -34,10 +34,10 @@
 
 ## Contact
 
-<a href="https://linkedin.com/in/rayanebrasili" target="_blank">
+<a href="https://www.linkedin.com/in/rayane-brasili-257979207/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-rayanebrasili-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/brasili_" target="_blank">
+<a href="https://www.instagram.com/brasili_/" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-brasili_-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
