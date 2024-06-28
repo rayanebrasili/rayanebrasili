@@ -1,9 +1,21 @@
+# Rayane Brasili ✨
+### Analista Cloud| DevOps | Segurança da Informação
 
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Rayane Brasili</h1>
+- Linkedin: [rayanebrasili](www.linkedin.com/in/rayane-brasili-257979207)
 
-- ☁️ Cloud Analyst 
+### Educação 📚
+- **Tecnólogo em Segurança da Informação**, Universidade Anhembi Morumbi (UAM), 2023 - 2025 (Cursando)
+- **Técnico em informática**, Etec Astor de Mattos Carvalho (ETEC), 2018 - 2020 (Concluido)
 
-- 💬 Ask me about **Cloud, AWS, DevOps, IT infrastructure**
+### Idiomas 🌍
+- Português: Nativo
+- Inglês: Intermediário
+
+### Interesses 🔍
+- DevOps/ DevSecOps
+- Segurança da Informação
+- Inteligência Artificial e Machine Learning
+
 
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=rayanebrasili&show_icons=true&theme=vision-friendly-dark" alt="rayanebrasili's stats"/>
@@ -12,14 +24,5 @@
 
 <br><br>
 
-## Contact
-
-<a href="https://www.linkedin.com/in/rayane-brasili-257979207/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-rayanebrasili-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/brasili_/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-brasili_-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
 
 
