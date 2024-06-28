@@ -1,7 +1,7 @@
 # Rayane Brasili ✨
 ### Analista Cloud | DevOps | Segurança da Informação
 
-- Linkedin: [rayanebrasili](www.linkedin.com/in/rayane-brasili-257979207)
+- Linkedin: [rayanebrasili] (www.linkedin.com/in/rayane-brasili-257979207)
 
 ### Educação 📚
 - **Tecnólogo em Segurança da Informação**, Universidade Anhembi Morumbi (UAM), 2023 - 2025 (Cursando)
