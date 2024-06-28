@@ -1,5 +1,5 @@
 # Rayane Brasili ✨
-### Analista Cloud| DevOps | Segurança da Informação
+### Analista Cloud | DevOps | Segurança da Informação
 
 - Linkedin: [rayanebrasili](www.linkedin.com/in/rayane-brasili-257979207)
 
