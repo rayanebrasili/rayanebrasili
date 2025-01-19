@@ -1,5 +1,5 @@
 # Rayane Brasili ✨
-### Analista Cloud | DevOps | Segurança da Informação
+### Analista Cloud | DevOps 
 
 - LinkedIn: [Rayane Brasili](https://www.linkedin.com/in/rayane-brasili-257979207)
 
@@ -10,11 +10,6 @@
 ### Idiomas 🌍
 - Português: Nativo
 - Inglês: Intermediário
-
-### Interesses 🔍
-- DevOps/ DevSecOps
-- Segurança da Informação
-
 
 
 <p align="left">
