@@ -14,7 +14,7 @@
 ### Interesses 🔍
 - DevOps/ DevSecOps
 - Segurança da Informação
-- Inteligência Artificial e Machine Learning
+
 
 
 <p align="left">
