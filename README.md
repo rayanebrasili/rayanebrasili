@@ -1,14 +1,13 @@
 # Rayane Brasili ✨
-### Analista Cloud | DevOps 
+### DevOps Engineer em formação 
 
-- LinkedIn: [Rayane Brasili](https://www.linkedin.com/in/rayane-brasili-257979207)
+-> Focada em infraestrutura, automação e segurança
 
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=rayanebrasili&show_icons=true&theme=vision-friendly-dark" alt="rayanebrasili's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rayanebrasili&layout=compact&theme=vision-friendly-dark" alt="rayanebrasili's most languages"/>
-</p>
+🚀 Construindo projetos voltados a Cloud, DevOps e observabilidade!
+📱 Às vezes me aventuro em Flutter.
 
-<br><br>
+📫 LinkedIn: [Rayane Brasili](https://www.linkedin.com/in/rayane-brasili-257979207)
+
 
 
 
