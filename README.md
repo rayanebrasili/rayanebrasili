@@ -1,5 +1,5 @@
 # Rayane Brasili ✨
-### DevOps Engineer em formação 
+### DevOps Engineer
 
 -> Focada em infraestrutura, automação e segurança
 
