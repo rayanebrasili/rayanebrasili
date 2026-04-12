@@ -5,7 +5,7 @@
 
 🚀 Construindo projetos voltados a Cloud, DevOps e observabilidade!
 <br>
-📱 Às vezes me aventuro em Flutter.
+
 
 📫 LinkedIn: [Rayane Brasili](https://www.linkedin.com/in/rayane-brasili-257979207)
 
